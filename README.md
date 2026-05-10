@@ -12,7 +12,6 @@ A simple Portfolio about Simon Gatuku
 
 ## Technologies Used
 - HTML5
-- CSS3
 
 
 ## How to Run
