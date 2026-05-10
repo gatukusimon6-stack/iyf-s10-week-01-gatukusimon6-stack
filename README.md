@@ -1,1 +1,28 @@
-# iyf-s10-week-01-gatukusimon6-stack
+# Week {02}: {CSS Mastery - Responsive Portfolio}
+
+---
+
+## Author
+- **Name:** Simon Gatuku
+- **GitHub:** [@gatukusimon6-stack](https://github.com/gatukusimon6-stack)
+- **Date:** 2 22, 2026
+
+## Project Description
+A simple Portfolio about Simon Gatuku
+
+## Technologies Used
+- HTML5
+- CSS3
+
+
+## How to Run
+1. Clone this repository
+2. Open `index.html` in your browser
+
+---
+
+## Lessons Learned
+HOW to code using HTML and applying some CSS
+
+## Challenges Faced
+Running the code
