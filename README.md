@@ -1,4 +1,4 @@
-# Week {02}: {Web Foundations - Portfolio Site}
+# Week {01}: {Web Foundations - Portfolio Site}
 
 ---
 
